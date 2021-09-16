@@ -60,4 +60,4 @@ else:
 
 # Please enter your name: sai
 # hey, sai please enter how many hours are you spending on studying in a day: 65
-# sai It isn't possible to study more than 24hrs in a day, so please enter a valid information
+# sai It isn't possible to study more than 24hrs in a day, so please enter a valid information 
