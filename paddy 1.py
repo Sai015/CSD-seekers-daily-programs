@@ -44,4 +44,4 @@ else:
 # You can choose a no. below 1 or 1 to distribute equally to all the relatives
 # Please enter how many mangoes would you like to give to each of your relative: 2
 # Good, now you have chosen to give 2 mangoes to each relative
-# But, It isn't possible to disturb because mangoes aren't sufficient. 
+# But, It isn't possible to disturb because mangoes aren't sufficient.
