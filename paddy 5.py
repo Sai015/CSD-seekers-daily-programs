@@ -67,4 +67,4 @@ elif reminder > 0:
 # Today's date is 2021-09-16
 # Ujjvala and Sagarika, Please enter the year, so we will let you know regarding the festival is conducted or not: 2020
 # Elephant Marathon Festival was celebrated on Feb 29th, 2020
-# Thanks for using our program. Hope you'll have a good time in the coming festival.
+# Thanks for using our program. Hope you'll have a good time in the coming festival. 
