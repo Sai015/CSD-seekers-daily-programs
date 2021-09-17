@@ -30,15 +30,15 @@ today = date.today()
   
 print("Today's date is", today)
 entered_year = int(input("Ujjvala and Sagarika, Please enter the year, so we will let you know regarding the festival is conducted or not: "))
-reminder = (entered_year % 4 )
+reminder = (entered_year % 400 )
 if reminder == 0 and entered_year > today.year:
     print("Yes, Elephant Marathon Festival has to be arranged for the year",entered_year)
-    print("Thanks for using our program." // "Hope you'll have a good time in the festival.")
+    print("Thanks for using our program.Hope you'll have a good time in the festival.")
     exit()
 
 if reminder == 0:
-    print("Elephant Marathon Festival was celebrated on Feb 29th,"+entered_year)
-    print("Thanks for using our program." // "Hope you'll have a good time in the coming festival.")
+    print("Elephant Marathon Festival was celebrated on Feb 29th",entered_year)
+    print("Thanks for using our program.Hope you'll have a good time in the coming festival.")
 
 elif reminder > 0 and entered_year > today.year:
     print("Sorry, Elephant Marathon can not be celebrated in the year",entered_year)
@@ -47,7 +47,6 @@ elif reminder > 0 and entered_year > today.year:
 elif reminder > 0:
     print("Elephant Marathon Festival was not celebrated on Feb 29th",entered_year)
     print("Thanks for using our program.")
-
 
 
 
